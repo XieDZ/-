@@ -1,0 +1,3 @@
+<view class="section">
+  <button bindtap="login" type="primary" size="mini">登录</button>
+</view>
